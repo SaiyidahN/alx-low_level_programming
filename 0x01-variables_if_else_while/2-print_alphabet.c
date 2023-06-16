@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main block
+ * main: main block
  * Description: To print the alphabet in lowercaseuse 'putchar' function. * Return: 0
  */
 int main(void)
